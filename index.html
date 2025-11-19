@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Application</title>
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+</head>
+<body class="bg-gray-100 font-sans ">
+  
+  <!-- Quiz Type Buttons -->
+  <div class="max-w-4xl w-full mx-auto mt-8 flex flex-wrap gap-4 px-4 sm:px-6 ">
+    <button id="html-btn" class="flex-1 min-w-[150px] bg-gray-800 hover:bg-gray-700 text-white font-semibold py-3 rounded-lg transition">
+      HTML Quiz
+    </button>
+    <button id="css-btn" class="flex-1 min-w-[150px] bg-gray-800 hover:bg-gray-700 text-white font-semibold py-3 rounded-lg transition">
+      CSS Quiz
+    </button>
+    <button id="js-btn" class="flex-1 min-w-[150px] bg-gray-800 hover:bg-gray-700 text-white font-semibold py-3 rounded-lg transition">
+      JavaScript Quiz
+    </button>
+  </div>
+
+  <!-- Quiz App Container -->
+  <div class="quiz-app max-w-4xl w-full mx-auto bg-white p-6 shadow-lg rounded-lg mt-8 px-4 sm:px-6">
+
+    <!-- Quiz Info -->
+    <div class="quiz-info flex flex-col sm:flex-row justify-between bg-white p-5 border border-gray-200 rounded-lg mb-4">
+      <div class="category text-gray-700 font-semibold mb-2 sm:mb-0">
+        Category: <span class="text-gray-500 font-bold" id="quizName"></span>
+      </div>
+      <div class="count text-gray-700 font-semibold mb-2 sm:mb-0">
+        Questions Count: <span class="text-gray-500 font-bold"></span>
+      </div>
+      <div class="timer text-gray-700 font-semibold">
+        Time Left: <span id="timer" class="text-red-600 font-bold">05:00</span>
+      </div>
+    </div>
+
+    <!-- Quiz Area -->
+    <div id="quiz-area" class="quiz-area mt-4 text-gray-700 text-lg font-semibold">
+      <!-- Questions Dynamicly will apper here -->
+    </div>
+
+    <!-- Answers Area -->
+    <div id="answers-area" class="answers-area mt-4 flex flex-col gap-4 px-2 sm:px-4 lg:px-6">
+      <!-- Answers Dynamicly will apper here -->
+    </div>
+
+    <!-- Navigation & Bullets -->
+    <div class="navigation mt-6 flex flex-col sm:flex-row items-center justify-between bg-white p-5 border border-gray-200 rounded-lg">
+
+      <!-- Prev / Next Buttons -->
+      <div class="flex gap-4 mb-4 sm:mb-0">
+        <button id="prev-btn" class="bg-gray-800 hover:bg-gray-700 text-white font-semibold py-2 px-4 rounded-lg transition">Prev</button>
+        <button id="next-btn" class="bg-gray-800 hover:bg-gray-700 text-white font-semibold py-2 px-4 rounded-lg transition">Next</button>
+      </div>
+
+      <!-- Bullets -->
+      <div class="bullets flex items-center gap-2">
+      </div>
+
+    </div>
+
+    <!-- Submit Button -->
+    <button class="submit-button w-full bg-gray-800 hover:bg-gray-700 text-white font-semibold py-3 rounded-lg mt-6 transition" style="display:none;">
+      Submit Answer
+    </button>
+
+    <!-- Results -->
+    <div class="results mt-5 text-center text-lg font-semibold"></div>
+
+  </div>
+
+  <!-- JS File -->
+  <script src="./script.js"></script>
+</body>
+</html>
