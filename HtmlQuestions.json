@@ -37,7 +37,7 @@
     "answer_2": "By Using Load In HTML",
     "answer_3": "By Using iFrame Tag",
     "answer_4": "All Solutions Is Wrong",
-    "right_answer": "By Using iFrame Tag"
+    "right_answer": "All Solutions Is Wrong"
   },
   {
     "title": "What Is The Tag That Not Exists in HTML",
@@ -200,3 +200,4 @@
     "right_answer": "<ol>"
   }
 ]
+
