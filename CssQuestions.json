@@ -1,0 +1,83 @@
+[
+    {
+      "title": "What Does CSS Stand For",
+      "answer_1": "Creative Style Sheets",
+      "answer_2": "Cascading Style Sheets",
+      "answer_3": "Computer Style System",
+      "answer_4": "Colorful Style Setup",
+      "right_answer": "Cascading Style Sheets"
+    },
+    {
+      "title": "Which Property Is Used To Change Text Color",
+      "answer_1": "font-style",
+      "answer_2": "text-decoration",
+      "answer_3": "color",
+      "answer_4": "text-color",
+      "right_answer": "color"
+    },
+    {
+      "title": "How Can We Add External CSS File",
+      "answer_1": "<style src='style.css'>",
+      "answer_2": "<css link='style.css'>",
+      "answer_3": "<link rel='stylesheet' href='style.css'>",
+      "answer_4": "<script href='style.css'></script>",
+      "right_answer": "<link rel='stylesheet' href='style.css'>"
+    },
+    {
+      "title": "Which CSS Property Controls The Size Of Text",
+      "answer_1": "font-size",
+      "answer_2": "text-size",
+      "answer_3": "font-weight",
+      "answer_4": "text-style",
+      "right_answer": "font-size"
+    },
+    {
+      "title": "How Do We Write A CSS Comment",
+      "answer_1": "<!-- Comment -->",
+      "answer_2": "// Comment",
+      "answer_3": "/* Comment */",
+      "answer_4": "** Comment **",
+      "right_answer": "/* Comment */"
+    },
+    {
+      "title": "What Is The Default Display Value For <div> Element",
+      "answer_1": "inline",
+      "answer_2": "block",
+      "answer_3": "inline-block",
+      "answer_4": "flex",
+      "right_answer": "block"
+    },
+    {
+      "title": "Which Property Is Used To Change Background Color",
+      "answer_1": "background-color",
+      "answer_2": "bg-color",
+      "answer_3": "color-background",
+      "answer_4": "background-style",
+      "right_answer": "background-color"
+    },
+    {
+      "title": "What Is The Correct Way To Select Element With Class 'box'",
+      "answer_1": ".box",
+      "answer_2": "#box",
+      "answer_3": "*box",
+      "answer_4": "/box",
+      "right_answer": ".box"
+    },
+    {
+      "title": "Which Unit Is Relative To Root Font Size",
+      "answer_1": "px",
+      "answer_2": "em",
+      "answer_3": "rem",
+      "answer_4": "%",
+      "right_answer": "rem"
+    },
+    {
+      "title": "What Property Makes Text Bold",
+      "answer_1": "font-weight",
+      "answer_2": "font-style",
+      "answer_3": "text-bold",
+      "answer_4": "bold-text",
+      "right_answer": "font-weight"
+    }
+  ]
+  

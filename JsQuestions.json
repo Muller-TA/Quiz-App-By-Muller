@@ -1,0 +1,211 @@
+[
+    {
+      "title": "What Is JavaScript Mainly Used For",
+      "answer_1": "Styling Webpages",
+      "answer_2": "Structuring Content",
+      "answer_3": "Adding Interactivity",
+      "answer_4": "Creating Databases",
+      "right_answer": "Adding Interactivity"
+    },
+    {
+      "title": "Inside Which HTML Tag Do We Put JavaScript",
+      "answer_1": "<java>",
+      "answer_2": "<script>",
+      "answer_3": "<js>",
+      "answer_4": "<code>",
+      "right_answer": "<script>"
+    },
+    {
+      "title": "How Do You Write 'Hello World' In Alert Box",
+      "answer_1": "msg('Hello World')",
+      "answer_2": "alertBox('Hello World')",
+      "answer_3": "alert('Hello World')",
+      "answer_4": "message('Hello World')",
+      "right_answer": "alert('Hello World')"
+    },
+    {
+      "title": "Which Keyword Declares A Block Scoped Variable",
+      "answer_1": "var",
+      "answer_2": "let",
+      "answer_3": "static",
+      "answer_4": "define",
+      "right_answer": "let"
+    },
+    {
+      "title": "Which Keyword Declares A Constant Variable",
+      "answer_1": "var",
+      "answer_2": "let",
+      "answer_3": "const",
+      "answer_4": "constant",
+      "right_answer": "const"
+    },
+    {
+      "title": "How Do We Convert JSON String To Object",
+      "answer_1": "JSON.stringify()",
+      "answer_2": "JSON.parse()",
+      "answer_3": "parse.JSON()",
+      "answer_4": "convertJSON()",
+      "right_answer": "JSON.parse()"
+    },
+    {
+      "title": "How Do We Convert Object To JSON String",
+      "answer_1": "JSON.convert()",
+      "answer_2": "object.toJSON()",
+      "answer_3": "JSON.stringify()",
+      "answer_4": "JSON.parseObject()",
+      "right_answer": "JSON.stringify()"
+    },
+    {
+      "title": "Which Symbol Is Used For Single-Line Comments",
+      "answer_1": "//",
+      "answer_2": "/*",
+      "answer_3": "<!--",
+      "answer_4": "##",
+      "right_answer": "//"
+    },
+    {
+      "title": "What Will typeof [] Return",
+      "answer_1": "'array'",
+      "answer_2": "'object'",
+      "answer_3": "'list'",
+      "answer_4": "'collection'",
+      "right_answer": "'object'"
+    },
+    {
+      "title": "Which Operator Compares Value And Type",
+      "answer_1": "==",
+      "answer_2": "=",
+      "answer_3": "===",
+      "answer_4": "!=",
+      "right_answer": "==="
+    },
+    {
+      "title": "How Can We Select Element With ID box",
+      "answer_1": "document.get('box')",
+      "answer_2": "document.query('#box')",
+      "answer_3": "document.getElementById('box')",
+      "answer_4": "document.id('box')",
+      "right_answer": "document.getElementById('box')"
+    },
+    {
+      "title": "How Can We Select Elements With Class name 'item'",
+      "answer_1": "document.querySelector('item')",
+      "answer_2": "document.getElementsByClassName('item')",
+      "answer_3": "document.getClass('item')",
+      "answer_4": "document.select('.item')",
+      "right_answer": "document.getElementsByClassName('item')"
+    },
+    {
+      "title": "Which Method Adds Element At End Of Array",
+      "answer_1": "push()",
+      "answer_2": "pop()",
+      "answer_3": "shift()",
+      "answer_4": "unshift()",
+      "right_answer": "push()"
+    },
+    {
+      "title": "Which Method Removes Last Element From Array",
+      "answer_1": "remove()",
+      "answer_2": "pop()",
+      "answer_3": "delete()",
+      "answer_4": "cut()",
+      "right_answer": "pop()"
+    },
+    {
+      "title": "What Will 5 + '5' Return",
+      "answer_1": "10",
+      "answer_2": "55",
+      "answer_3": "TypeError",
+      "answer_4": "Undefined",
+      "right_answer": "55"
+    },
+    {
+      "title": "What Will 5 - '5' Return",
+      "answer_1": "10",
+      "answer_2": "55",
+      "answer_3": "0",
+      "answer_4": "Error",
+      "right_answer": "0"
+    },
+    {
+      "title": "Which Built-In Method Sorts Array",
+      "answer_1": "order()",
+      "answer_2": "arrange()",
+      "answer_3": "sort()",
+      "answer_4": "filter()",
+      "right_answer": "sort()"
+    },
+    {
+      "title": "How Do We Write Arrow Function",
+      "answer_1": "function => () {}",
+      "answer_2": "() => {}",
+      "answer_3": "() -> {}",
+      "answer_4": "func() {} =>",
+      "right_answer": "() => {}"
+    },
+    {
+      "title": "Which Method Repeats Code Every Given Time",
+      "answer_1": "setTimeout()",
+      "answer_2": "setInterval()",
+      "answer_3": "repeat()",
+      "answer_4": "loop()",
+      "right_answer": "setInterval()"
+    },
+    {
+      "title": "Which Method Runs Code After Specific Time",
+      "answer_1": "setLater()",
+      "answer_2": "delay()",
+      "answer_3": "setTimeout()",
+      "answer_4": "timer()",
+      "right_answer": "setTimeout()"
+    },
+    {
+      "title": "How Do We Prevent Default Event Behavior",
+      "answer_1": "event.stop()",
+      "answer_2": "event.preventDefault()",
+      "answer_3": "event.cancel()",
+      "answer_4": "event.stopPropagation()",
+      "right_answer": "event.preventDefault()"
+    },
+    {
+      "title": "Which Method Stops Event Bubbling",
+      "answer_1": "event.preventDefault()",
+      "answer_2": "event.stopPropagation()",
+      "answer_3": "event.stop()",
+      "answer_4": "event.freeze()",
+      "right_answer": "event.stopPropagation()"
+    },
+    {
+      "title": "How Do We Create Array In JavaScript",
+      "answer_1": "var arr = array();",
+      "answer_2": "var arr = [];",
+      "answer_3": "var arr = {};",
+      "answer_4": "var arr = newObject();",
+      "right_answer": "var arr = [];"
+    },
+    {
+      "title": "Which Value Is Considered Falsy",
+      "answer_1": "[]",
+      "answer_2": "{ }",
+      "answer_3": "0",
+      "answer_4": "'0'",
+      "right_answer": "0"
+    },
+    {
+      "title": "How Can We Check Length Of Array",
+      "answer_1": "arr.size()",
+      "answer_2": "arr.length",
+      "answer_3": "arr.count",
+      "answer_4": "arr.total()",
+      "right_answer": "arr.length"
+    },
+    {
+      "title": "What Is The Global Object In Browser",
+      "answer_1": "document",
+      "answer_2": "console",
+      "answer_3": "window",
+      "answer_4": "global",
+      "right_answer": "window"
+    }
+  ]
+  

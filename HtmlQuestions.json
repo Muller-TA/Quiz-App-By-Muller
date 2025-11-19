@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Create Horizontal Line",
+    "right_answer": "To Add Breakline"
+  },
+  {
+    "title": "Is <img> Element Has Attribute href",
+    "answer_1": "Yes",
+    "answer_2": "No Its For Anchor Tag <a>",
+    "answer_3": "All Elements Has This Attribute",
+    "answer_4": "Answer 1 And 3 Is Right",
+    "right_answer": "No Its For Anchor Tag <a>"
+  },
+  {
+    "title": "How Can We Make Element Text Bold",
+    "answer_1": "Putting It Inside <b> Tag",
+    "answer_2": "Putting It Inside <strong> Tag",
+    "answer_3": "Customizing It With Font-Weight Property In CSS",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What Is The Right Hierarchy For Creating Part Of Page",
+    "answer_1": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
+    "answer_2": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
+    "answer_3": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "All Solutions Is Wrong"
+  },
+  {
+    "title": "How Can We Include External Page Inside HTML Page",
+    "answer_1": "By Using Include in HTML",
+    "answer_2": "By Using Load In HTML",
+    "answer_3": "By Using iFrame Tag",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "By Using iFrame Tag"
+  },
+  {
+    "title": "What Is The Tag That Not Exists in HTML",
+    "answer_1": "<object>",
+    "answer_2": "<basefont>",
+    "answer_3": "<abbr>",
+    "answer_4": "All Tags Is Exists in HTML",
+    "right_answer": "All Tags Is Exists in HTML"
+  },
+  {
+    "title": "How We Specify Document Type Of HTML5 Page",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "In HTML Can We Use This Way To Add Attributes",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All Is Right",
+    "right_answer": "All Is Right"
+  },
+  {
+    "title": "What Does <a> Tag Do",
+    "answer_1": "Creates Paragraph",
+    "answer_2": "Creates Link",
+    "answer_3": "Displays Image",
+    "answer_4": "Creates Table",
+    "right_answer": "Creates Link"
+  },
+  {
+    "title": "Which Attribute Specifies Image Source",
+    "answer_1": "link",
+    "answer_2": "src",
+    "answer_3": "href",
+    "answer_4": "source",
+    "right_answer": "src"
+  },
+  {
+    "title": "Which Tag Is Used To Create A Table Row",
+    "answer_1": "<row>",
+    "answer_2": "<td>",
+    "answer_3": "<tr>",
+    "answer_4": "<table-row>",
+    "right_answer": "<tr>"
+  },
+  {
+    "title": "Which Tag Is Used To Create A List Item",
+    "answer_1": "<li>",
+    "answer_2": "<list>",
+    "answer_3": "<item>",
+    "answer_4": "<ul-item>",
+    "right_answer": "<li>"
+  },
+  {
+    "title": "Which Element Is Used For Important Text",
+    "answer_1": "<b>",
+    "answer_2": "<strong>",
+    "answer_3": "<important>",
+    "answer_4": "<highlight>",
+    "right_answer": "<strong>"
+  },
+  {
+    "title": "Which Tag Displays A Horizontal Line",
+    "answer_1": "<line>",
+    "answer_2": "<hl>",
+    "answer_3": "<hr>",
+    "answer_4": "<hline>",
+    "right_answer": "<hr>"
+  },
+  {
+    "title": "Which Tag Is Used For Division In HTML",
+    "answer_1": "<section>",
+    "answer_2": "<div>",
+    "answer_3": "<part>",
+    "answer_4": "<split>",
+    "right_answer": "<div>"
+  },
+  {
+    "title": "Which Attribute Opens Link In New Tab",
+    "answer_1": "open='_blank'",
+    "answer_2": "target='_blank'",
+    "answer_3": "tab='_blank'",
+    "answer_4": "href='_blank'",
+    "right_answer": "target='_blank'"
+  },
+  {
+    "title": "What Is The Correct Tag For Largest Heading",
+    "answer_1": "<h6>",
+    "answer_2": "<h3>",
+    "answer_3": "<h1>",
+    "answer_4": "<h0>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "Which Tag Is Used For JavaScript Linking",
+    "answer_1": "<js>",
+    "answer_2": "<script>",
+    "answer_3": "<javascript>",
+    "answer_4": "<code>",
+    "right_answer": "<script>"
+  },
+  {
+    "title": "Which Tag Is Used For CSS Linking",
+    "answer_1": "<style src='style.css'>",
+    "answer_2": "<css href='style.css'>",
+    "answer_3": "<link rel='stylesheet' href='style.css'>",
+    "answer_4": "<import style='style.css'>",
+    "right_answer": "<link rel='stylesheet' href='style.css'>"
+  },
+  {
+    "title": "Which Tag Represents Navigation Links",
+    "answer_1": "<navigate>",
+    "answer_2": "<nav>",
+    "answer_3": "<links>",
+    "answer_4": "<menu>",
+    "right_answer": "<nav>"
+  },
+  {
+    "title": "Which Tag Defines Footer Content",
+    "answer_1": "<bottom>",
+    "answer_2": "<foot>",
+    "answer_3": "<footer>",
+    "answer_4": "<end>",
+    "right_answer": "<footer>"
+  },
+  {
+    "title": "Which Tag Defines Main Content",
+    "answer_1": "<main>",
+    "answer_2": "<content>",
+    "answer_3": "<center>",
+    "answer_4": "<section>",
+    "right_answer": "<main>"
+  },
+  {
+    "title": "Which Attribute Provides Tooltip Text",
+    "answer_1": "tip",
+    "answer_2": "tooltip",
+    "answer_3": "title",
+    "answer_4": "alt",
+    "right_answer": "title"
+  },
+  {
+    "title": "Which Tag Defines An Ordered List",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<li>",
+    "answer_4": "<order>",
+    "right_answer": "<ol>"
+  }
+]
